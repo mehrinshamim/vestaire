@@ -1,0 +1,1 @@
+# Custom DRF permissions for the project. 

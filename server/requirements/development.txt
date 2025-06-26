@@ -1,0 +1,5 @@
+-r base.txt
+pytest
+django-extensions
+coverage
+factory-boy 

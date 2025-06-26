@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# Environments
+.env
+venv/
+ENV/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Test/coverage
+.coverage
+htmlcov/
+.tox/
+
+# Migrations (optional, if you want to ignore generated migrations)
+# **/migrations/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Other
+*.swp
+*.swo
+
+# Flutter/Dart (if any Flutter code is in this repo)
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+pubspec.lock 
+
+.cursor/

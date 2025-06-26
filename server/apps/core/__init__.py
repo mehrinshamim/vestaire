@@ -1,0 +1,1 @@
+# Core app for shared utilities, permissions, validators, and base models. 

@@ -54,3 +54,6 @@ build/
 pubspec.lock 
 
 .cursor/
+
+# Documentation drafts/checkpoints
+**/docs/c_*.md

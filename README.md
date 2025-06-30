@@ -66,7 +66,7 @@ Digital Wardrobe with AI-powered image analysis to extract clothing details from
 
 ## 📚 Learning & Docs
 
-- See `server/docs/` and `server/learn/` for detailed backend guides, architecture, and best practices.
+- See `server/learn/` for detailed backend guides, architecture, and best practices.
 
 ---
 
